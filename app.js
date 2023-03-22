@@ -39,12 +39,6 @@ app.use(
 );
 
 app.use((req, res, next) => {
- 
- 
- 
- 
- 
- 
 });
 
 app.use("/admin", adminRoutes);
